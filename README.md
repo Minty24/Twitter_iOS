@@ -23,7 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://i.imgur.com/oo2QtVq.gif" width='' length=''><br>
-
+<img src='https://i.imgur.com/oo2QtVq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ### Notes
 Describe any challenges encountered while building the app.
